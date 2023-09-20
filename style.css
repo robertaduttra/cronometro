@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    outline: none;
+}
+
+body{
+    background:rgb(245, 76, 76);
+       
+}
+
+/* .text,h1,h2{
+   margin-top: 20px;
+   font-size: 50px;
+   color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     */
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid rgb(184, 179, 179);
+    margin-top: 60px;    
+    height: 700px;   
+    box-shadow: 4px 3px 28px 5px rgba(0,0,0,0.51);
+    -webkit-box-shadow: 4px 3px 28px 5px rgba(0,0,0,0.51);
+    -moz-box-shadow: 4px 3px 28px 5px rgba(0,0,0,0.51);
+    
+}
+img{
+    width:500px;    
+    height:500px;   
+   
+}
+
+   
+ main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;    
+} 
+
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 70px;        
+}
+
+h1{
+    color:black;
+}
+
+h2{
+    margin-top: 10px;
+    font-size: 40px;
+    color:yellow
+}
+
+button{     
+    border: none;
+    padding: 10px 90px;
+    border-radius: 12px;
+    background-color: #0094b6; 
+    font-size: 20px;
+    cursor: pointer; 
+    opacity: 0.9;  
+}
+
+button:active{
+    opacity: 0.5
+}
+
+button:hover{
+    opacity: 0.5;
+}
