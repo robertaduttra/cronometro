@@ -9,5 +9,5 @@
  - JAVASCRIPT 
    
 
-![joken po](https://github.com/robertaduttra/cronometro/assets/96507065/3b8d27b1-631e-44cc-90c0-00bbc1d349f5)
+![cronometro](https://github.com/robertaduttra/cronometro/assets/96507065/3d6235c4-212b-4026-9f7c-2bc937644f3d)
 
