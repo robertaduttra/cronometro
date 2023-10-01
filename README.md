@@ -6,6 +6,8 @@
 # Tecnologias utilizadas: 🖥
  - HTML
  - CSS
- - JAVASCRIPT
+ - JAVASCRIPT 
+   
 
-![cronometro](https://github.com/robertaduttra/cronometro/assets/96507065/2e290496-8d25-472d-9839-3b7629b6dd6e)
+![joken po](https://github.com/robertaduttra/cronometro/assets/96507065/3b8d27b1-631e-44cc-90c0-00bbc1d349f5)
+
